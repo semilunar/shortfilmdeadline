@@ -71,6 +71,10 @@ div.circle {
   background-color: black;
 }
 
+div.circle:hover {
+  cursor: pointer;
+}
+
 .circle-1 {
   top: 30px;
   left: 140px;
